@@ -35,4 +35,3 @@ I'm a software developer with experience in enterprise systems, ERP platforms, a
 <img alt="GitHub" width="26px" src="https://cdn.simpleicons.org/github/white" />&nbsp;
 <img alt="npm" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />&nbsp;
 <img alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />&nbsp;
-<img alt="Azure" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
